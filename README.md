@@ -1,4 +1,6 @@
 Fabric Defect Detection with Faster R-CNN
+
+
 📌 Project Description
 
 This project implements a custom Faster R-CNN from scratch in PyTorch to detect fabric defects.
